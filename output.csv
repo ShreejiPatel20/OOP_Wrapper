@@ -1,0 +1,71 @@
+--- Python OOP Project: Employee Management System ---
+
+Choose an operation:
+1. Create a Person
+2. Create an Employee
+3. Create a Manager
+4. Show Details
+5. Exit
+Enter your choice:  1
+Enter Name:  John Doe
+Enter Age:  30
+Person created with name: John Doe and age: 30.
+
+--- Choose another operation ---
+
+Choose an operation:
+1. Create a Person
+2. Create an Employee
+3. Create a Manager
+4. Show Details
+5. Exit
+Enter your choice:  2
+Enter Name:  Jane Smith
+Enter Age:  28
+Enter Employee ID:  E123
+Enter Salary:  50000
+Employee created with name: Jane Smith, age: 28, ID: E123, and salary: $50000.0.
+
+--- Choose another operation ---
+
+Choose an operation:
+1. Create a Person
+2. Create an Employee
+3. Create a Manager
+4. Show Details
+5. Exit
+Enter your choice:  3
+Enter Name:  Alice Johnson
+Enter Age:  40
+Enter Employee ID:  M456
+Enter Salary:  80000
+Enter Department:  4
+Manager created with name: Alice Johnson, age: 40, ID: M456, salary: $80000.0, and department: 4.
+
+--- Choose another operation ---
+
+Choose an operation:
+1. Create a Person
+2. Create an Employee
+3. Create a Manager
+4. Show Details
+5. Exit
+Enter your choice:  2
+Enter Name:  Jane Smith
+Enter Age:  28
+Enter Employee ID:  E123
+Enter Salary:  50000
+Employee created with name: Jane Smith, age: 28, ID: E123, and salary: $50000.0.
+
+--- Choose another operation ---
+
+Choose an operation:
+1. Create a Person
+2. Create an Employee
+3. Create a Manager
+4. Show Details
+5. Exit
+Enter your choice:  5
+Exiting the system. All resources have been freed!
+
+Goodbye!
